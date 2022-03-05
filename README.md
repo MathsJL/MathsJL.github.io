@@ -4,4 +4,5 @@
 - Via email [leuvenMJ@gmail.com](mailto:leuvenMJ@gmail.com)
 - Via the parent organisation site: [https://www.mathsjam.com/cities/leuven/](https://www.mathsjam.com/cities/leuven/)
 - Via our [own little website](https://leuvenmathsjam.github.io/)
-- Meet up *physically* on the second to last tuesday of each month in **TO BE DECIDED**
+- Meet up *physically* on the second to last tuesday of each month in **[OPEK Leuven](https://www.openstreetmap.org/way/94781952)**
+- 
