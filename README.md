@@ -15,4 +15,3 @@
 - You can point people to here with this QR-code:
 
 <img src="https://raw.githubusercontent.com/MathsJL/MathsJL.github.io/main/qr-code.svg" width="30%" alt="QR code with leuven black and white logo pointing to https://mathsjl.github.io">
-</img>
