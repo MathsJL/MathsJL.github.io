@@ -13,4 +13,6 @@
 - Via the parent organisation site: [https://www.mathsjam.com/cities/leuven/](https://www.mathsjam.com/cities/leuven/)
 - Via our [own little website](https://leuvenmathsjam.github.io/)
 - You can point people to here with this QR-code:
-![QR code with leuven black and white logo pointing to [https://mathsjl.github.io](https://mathsjl.github.io)](/qr-code.svg | width=30%)
+
+<img src="https://raw.githubusercontent.com/MathsJL/MathsJL.github.io/main/qr-code.svg" width="30%" alt="QR code with leuven black and white logo pointing to https://mathsjl.github.io">
+</img>
