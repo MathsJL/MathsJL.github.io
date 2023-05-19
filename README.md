@@ -19,6 +19,7 @@ Meet up *physically* on the second to last tuesday of each month in **[OPEK Leuv
 - Via email [leuvenMJ@gmail.com](mailto:leuvenMJ@gmail.com)
 - Via the parent organisation site: [https://www.mathsjam.com/cities/leuven/](https://www.mathsjam.com/cities/leuven/)
 - Via our [own little website](https://leuvenmathsjam.github.io/)
+- Via Mastodon on [Mathstodon @leuvenMJ](https://mathstodon.xyz/@leuvenMJ)
 - You can point people to here with this QR-code:
 
 <img src="https://raw.githubusercontent.com/MathsJL/MathsJL.github.io/main/qr-code.svg" width="30%" alt="QR code with leuven black and white logo pointing to https://mathsjl.github.io">
