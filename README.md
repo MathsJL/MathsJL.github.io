@@ -3,7 +3,7 @@
 ## Physical MathsJam 
 [fr] Chaque avant-dernier mardi du mois 
 [de] Jeden von letzten Dienstag, monatlich 
-[nl] Elke voorlaatste dinsdag, maandelijks Every penultimate tuesday, monthly Coming MathsJams: 21/03, 18/04, 23/05, ...
+[nl] Elke voorlaatste dinsdag, maandelijks Every penultimate tuesday, monthly Coming MathsJams: 23/05, ...
 [en] Meet up *physically* on the second to last tuesday of each month in **[OPEK Leuven](https://www.openstreetmap.org/way/94781952)**
 
 ## Online
