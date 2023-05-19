@@ -6,6 +6,8 @@
 [nl] Elke voorlaatste dinsdag, maandelijks Every penultimate tuesday, monthly Coming MathsJams: 23/05, ...
 [en] Meet up *physically* on the second to last tuesday of each month in **[OPEK Leuven](https://www.openstreetmap.org/way/94781952)**
 
+![What flags are contained by the flag of Norway teaser puzzle](./may23teaser.png)
+
 ## Online
 
 - On our [Signal Private Messenger](https://signal.org/download) [Group](https://signal.group/#CjQKIFqj30BPk5afN4fyrKYd6SfIhKePytDF6dYGJvHulPq8EhDwLRPBvWcbcS6sIc9W3EIg)
