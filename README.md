@@ -1,10 +1,15 @@
 # Welcome! To join Maths Jam Leuven (MJL) get in contact:
 
 ## Physical MathsJam 
-[fr] Chaque avant-dernier mardi du mois 
-[de] Jeden von letzten Dienstag, monatlich 
-[nl] Elke voorlaatste dinsdag, maandelijks Every penultimate tuesday, monthly Coming MathsJams: 23/05, ...
-[en] Meet up *physically* on the second to last tuesday of each month in **[OPEK Leuven](https://www.openstreetmap.org/way/94781952)**
+[fr] 🇫🇷 Chaque avant-dernier mardi du mois 
+
+[de] 🇩🇪 Jeden von letzten Dienstag, monatlich 
+
+[nl] 🇳🇱 Elke voorlaatste dinsdag, maandelijks 
+
+[en] 🇬🇧 Every penultimate tuesday, monthly Coming MathsJams: 23/05, ...
+
+Meet up *physically* on the second to last tuesday of each month in **[OPEK Leuven](https://www.openstreetmap.org/way/94781952)**
 
 ![What flags are contained by the flag of Norway teaser puzzle](./may23teaser.png)
 
